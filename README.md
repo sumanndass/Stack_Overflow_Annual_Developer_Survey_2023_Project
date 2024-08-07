@@ -12,7 +12,7 @@ The purpose of the study was to provide industry-leading developer community ins
 
 ## Data Understanding
 The dataset from the public survey is available here: [Stack Overflow Annual Developer Survey 2023 Dataset](https://cdn.stackoverflow.co/files/jo7n4k8s/production/49915bfd46d0902c3564fd9a06b509d08a20488c.zip/stack-overflow-developer-survey-2023.zip)
-  The dataset comprises rows and columns for each respondent, detailing their responses to each survey question.
-  The survey can be accessed in the project's repository files for reference.
-  The project identified numerous missing and ambiguous values in certain columns, which were removed from the rows based on the analytical task requirements.
-  More details can be found in the Python notebook file of the project as well.
+  - The dataset comprises rows and columns for each respondent, detailing their responses to each survey question.
+  - The survey can be accessed in the project's repository files for reference.
+  - The project identified numerous missing and ambiguous values in certain columns, which were removed from the rows based on the analytical task requirements.
+  -- More details can be found in the Python notebook file of the project as well.
