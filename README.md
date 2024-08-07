@@ -15,4 +15,5 @@ The dataset from the public survey is available here: [Stack Overflow Annual Dev
   - The dataset comprises rows and columns for each respondent, detailing their responses to each survey question.
   - The survey can be accessed in the project's repository files for reference.
   - The project identified numerous missing and ambiguous values in certain columns, which were removed from the rows based on the analytical task requirements.
-  -- More details can be found in the Python notebook file of the project as well.
+  - More details can be found in the Python notebook file of the project as well.
+
